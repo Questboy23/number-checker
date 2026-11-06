@@ -1,4 +1,6 @@
-# Number Checker
+# Number Checker: labels every number in an AI answer as verified, derived, wrongly bound or unverified against the cited source.
+
+**Work in progress: 9 of 9 tests pass, and the made-up-number score is not calibrated yet.**
 
 A Python tool that labels every number in an AI answer as verified, derived, wrongly bound or unverified against the cited source lines.
 
