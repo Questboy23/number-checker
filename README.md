@@ -4,7 +4,7 @@
 
 A Python tool that labels every number in an AI answer as verified, derived, wrongly bound or unverified against the cited source lines.
 
-**Status: work in progress.** The pipeline runs end to end and passes its 9 tests. The fabrication-score weights are hand-set placeholders, because the calibration step is not done.
+**Status: work in progress.** The pipeline runs end to end and passes its 9 tests. The fabrication-score weights are hand-set placeholders, because the calibration step is not done. The made-up-number value (`p(made up)`) is therefore a score, not a probability.
 
 ## AI disclosure
 
